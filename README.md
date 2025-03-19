@@ -1,2 +1,18 @@
 # working
 Automotive electronic rearview mirrors
+
+该项目用于替代汽车的光学后视镜，系统包括布置在车外的摄像头、布置在车内的 LCD 屏幕和电子控制
+单元。驾驶员可以通过 LCD 屏幕观察到侧后方的路况。在雨天、雾天、夜晚等路况下，电子控制单元针对图像进行
+相应处理以提供良好的视野。
+
+系统框图：
+
+![image](https://github.com/user-attachments/assets/26c9473d-d8c1-4b90-9225-12e6d5a9e834)
+
+GMSL串化器-解串器方案与芯片选型：
+
+![image](https://github.com/user-attachments/assets/e0abea9b-a664-4044-90e8-da5d36a13e67)
+
+芯片选型：
+
+![1742361299237](https://github.com/user-attachments/assets/7121f76f-c317-492a-a5a5-1c13cb4756e7)
